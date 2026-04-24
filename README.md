@@ -25,7 +25,7 @@ Le compte-rendu détaillé de la méthodologie (vulnérabilités trouvées, expl
 
 Clonez le dépôt pour auditer l'application vous-même :
 ```cmd
-git clone https://github.com/Sultan-zd/Lab1-UnCrackable1.git
+git clone https://github.com/Sultan-zd/Lab1-Sec-UnCrackable1.git
 ```
 Pour exécuter le script de déchiffrement depuis l'invite de commandes Windows (CMD ou PowerShell) :
 1. Installez la bibliothèque cryptographique requise (si nécessaire) :

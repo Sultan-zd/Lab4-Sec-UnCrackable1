@@ -23,12 +23,14 @@ Le compte-rendu détaillé de la méthodologie (vulnérabilités trouvées, expl
 
 ### Installation & Reproductibilité
 
-Clonez le dépôt pour auditer l'application vous-même :
+* Clonez le dépôt pour auditer l'application vous-même :
 ```cmd
-git clone [https://github.com/Sultan-zd/Lab1-UnCrackable1.git](https://github.com/Sultan-zd/Lab1-UnCrackable1.git)
+git clone https://github.com/Sultan-zd/Lab1-UnCrackable1.git
 ```
-Pour exécuter le script de déchiffrement depuis l'invite de commandes Windows (CMD ou PowerShell) :
+* Pour exécuter le script de déchiffrement depuis l'invite de commandes Windows (CMD ou PowerShell) :
 1. Installez la bibliothèque cryptographique requise (si nécessaire) :
+   ```cmd
    pip install pycryptodome
-2. Lancez le script d'extraction :
+3. Lancez le script d'extraction :
+   ```cmd
    python decrypt_secret.py

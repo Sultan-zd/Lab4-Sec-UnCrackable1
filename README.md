@@ -29,8 +29,6 @@ git clone https://github.com/Sultan-zd/Lab1-UnCrackable1.git
 ```
 Pour exécuter le script de déchiffrement depuis l'invite de commandes Windows (CMD ou PowerShell) :
 1. Installez la bibliothèque cryptographique requise (si nécessaire) :
-   
-   `pip install pycryptodome`
+   ``pip install pycryptodome``
 3. Lancez le script d'extraction :
-   
-   `python decrypt_secret.py`
+   ``python decrypt_secret.py``
